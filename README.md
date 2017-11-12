@@ -3,6 +3,8 @@ Project to show how work pattern Observer
 
 This project is only to explain how to implements the pattern Observer in a Java application.
 
+To see more visit https://nakatech.herokuapp.com/article/observer.html (Portuguese Version).
+
 ## Getting Started
 
 ### Prerequisites
