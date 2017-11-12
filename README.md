@@ -1,4 +1,4 @@
-# binoculo
+# Binoculo
 Project to show how work pattern Observer
 
 This project is only to explain how to implements the pattern Observer in a Java application.
